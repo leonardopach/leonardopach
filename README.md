@@ -5,7 +5,7 @@
 - 💌 Reach me at pachecodossantos17@gmail.com
 - 📖 Avid reader and lifelong learner
 
-### Skills and Technologies
+### 📚 Skills and Technologies
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -18,7 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardopach&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopach&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-### Contact Me
+### 📲 Contact Me
 
 <div> 
   <a href="mailto:pachecodossantos17@gmail.com">
