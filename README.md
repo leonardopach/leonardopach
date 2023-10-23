@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Leonardo+Pacheco;Bem+vindo+ao+meu+perfil+do+GitHub+:%29)](https://git.io/typing-svg)
 
 - 👔 Currently seeking employment opportunities
-- 📚 Passionate about Java programming
+- 📚 Passionate about Rust programming
 - 💌 Reach me at pachecodossantos17@gmail.com
 - 📖 Avid reader and lifelong learner
 
